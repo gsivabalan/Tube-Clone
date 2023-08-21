@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    background-color: #f00; /* Add your preferred color */
+    background-color: #f00;
     padding: 10px;
     text-align: center;
     color: #fff;
@@ -34,7 +34,7 @@ main {
 
 #video-container {
     display: grid;
-    grid-template-columns: repeat(3, 1fr); /* Adjust as per your layout */
+    grid-template-columns: repeat(3, 1fr); 
     grid-gap: 20px;
 }
 
